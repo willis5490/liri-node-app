@@ -1,0 +1,60 @@
+**************** Movie Log Begins ****************
+Fri Jul 27 2018 12:53:15 GMT-0600 (Mountain Daylight Time)
+DATA OUTPUT:
+Title: Heat
+Year: 1995
+IMDb Rating: 8.2
+Country: USA
+Language: English, Spanish
+Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist, while both sides attempt to find balance between their personal and professional lives.
+Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
+ **************** Movie Log Ends ****************
+ 
+**************** Music Log Begins ****************
+Fri Jul 27 2018 12:53:32 GMT-0600 (Mountain Daylight Time)
+ 
+DATA OUTPUT:
+Artist: Costantino Carrara
+Song: Fifty Shades of Grey (The Piano Medley): Crazy in Love / Earned It / Love Me Like You Do
+Preview Link: https://p.scdn.co/mp3-preview/2ce925fdf4d6efb88c991447671bbccd73281793?cid=e7158fffd6b6469ab2a41f09caf8e554
+Album: It's Time to Cover, Vol. 2
+
+**************** Music Log Ends ****************
+ 
+
+. Tweet: welton street cafe....yummmm!!
+Created at: Fri Jul 27 07:05:36 +0000 2018 
+
+. Tweet: I love fried Chicken https://t.co/vtfoHAjtqs
+Created at: Fri Jul 27 07:05:16 +0000 2018 
+
+. Tweet: blue
+Created at: Fri Jul 27 07:04:58 +0000 2018 
+
+. Tweet: Why is Trump a moron?
+Created at: Fri Jul 27 07:01:23 +0000 2018 
+
+. Tweet: palasade peaches are the best
+Created at: Fri Jul 27 07:01:11 +0000 2018 
+
+. Tweet: wildfires in the arctic circle!!
+Created at: Fri Jul 27 07:00:47 +0000 2018 
+
+. Tweet: tweet deet a la deet
+Created at: Fri Jul 27 07:04:15 +0000 2018 
+
+. Tweet: did you see that smell?
+Created at: Fri Jul 27 07:00:26 +0000 2018 
+
+. Tweet: I love voodoo donuts
+Created at: Fri Jul 27 07:00:06 +0000 2018 
+
+. Tweet: that feeling after a long day!!
+Created at: Fri Jul 27 06:59:48 +0000 2018 
+
+. Tweet: do that thing you do
+Created at: Fri Jul 27 07:00:59 +0000 2018 
+
+****************** Twitter Entry End ******************
+ 
+

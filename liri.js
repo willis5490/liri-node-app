@@ -14,7 +14,7 @@ if (promt == "spotify-this-song") {
         id: process.env.SPOTIFY_ID,
         secret: process.env.SPOTIFY_SECRET
     });
-    spotify.search({ type: 'track', query: song || default1, limit: 3 }, function (err, data) {
+    spotify.search({ type: 'track', query: song || default1, limit: 1 }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
@@ -80,7 +80,7 @@ else if (promt == "movie-this") {
             console.log("Language of Movie: " + JSON.parse(body).Language);
             console.log("Movie Plot: " + JSON.parse(body).Plot);
             console.log("Actors: " + JSON.parse(body).Actors);
-            fs.appendFile('log.txt', ('**************** Movie Log Begins ****************\r\n' + Date()  + '\r\nDATA OUTPUT:\r\n' + 'Title: ' + body.Title + '\r\nYear: ' + body.Year + '\r\nIMDb Rating: ' + body.imdbRating + '\r\nCountry: ' + body.Country + '\r\nLanguage: ' + body.Language + '\r\nPlot: ' + body.Plot + '\r\nActors: ' + body.Actors  + '\r\n **************** Movie Log Ends ****************\r\n \r\n'), function(err) {
+            fs.appendFile('log.txt', ('**************** Movie Log Begins ****************\r\n' + Date()  + '\r\nDATA OUTPUT:\r\n' + 'Title: ' + JSON.parse(body).Title + '\r\nYear: ' + JSON.parse(body).Year + '\r\nIMDb Rating: ' + JSON.parse(body).imdbRating + '\r\nCountry: ' + JSON.parse(body).Country + '\r\nLanguage: ' + JSON.parse(body).Language + '\r\nPlot: ' + JSON.parse(body).Plot + '\r\nActors: ' + JSON.parse(body).Actors  + '\r\n **************** Movie Log Ends ****************\r\n \r\n'), function(err) {
                 if (err) throw err;
             });
         }
